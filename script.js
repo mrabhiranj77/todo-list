@@ -1,4 +1,4 @@
-/* Follow the instructions found in the description to complete the JavaScript functionality.*/
+
 
 let todoItemsContainer = document.getElementById("todoItemsContainer");
 let addTodoButton = document.getElementById("addTodoButton");
